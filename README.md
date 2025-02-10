@@ -1,4 +1,4 @@
-# 👋 Seja bem vindo ao meu perfil GitHub! Me chamo Ycaro.
+# 👋 Seja bem vindo ao meu perfil GitHub! Me chamo Ycaro
 
 💻 Desenvolvedor Android | 🎮 Gamer | 🏋️ Gym Rat
 
