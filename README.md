@@ -15,9 +15,9 @@ Tenho aproximadamente 2 anos de experiência no desenvolvimento de aplicativos n
 
 ### 🚀 Linguagens Mais Usadas | 📊 Estatísticas no GitHub
 
- ![ycarossauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycarossauro&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarossauro&layout=compact)
+ ![ycarossauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycarossauro&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarossauro&layout=compact)
 
 ### 📌 Projetos em Destaque
 
-[![CountriesProject](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=CountriesProject)](https://github.com/ycarossauro/CountriesProject) [![JSP](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=JSP)](https://github.com/ycarossauro/JSP/tree/main) [![Spring-Boot-Java-Projects](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=Spring-Boot-Java-Projects)](https://github.com/ycarossauro/Spring-Boot-Java-Projects/tree/main)
+[![CountriesProject](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=CountriesProject)](https://github.com/ycarossauro/CountriesProject)  [![JSP](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=JSP)](https://github.com/ycarossauro/JSP/tree/main)  [![Spring-Boot-Java-Projects](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=Spring-Boot-Java-Projects)](https://github.com/ycarossauro/Spring-Boot-Java-Projects/tree/main)
 
