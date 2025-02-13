@@ -15,7 +15,7 @@ Tenho aproximadamente 2 anos de experiência no desenvolvimento de aplicativos n
 
 ### 🚀 Linguagens Mais Usadas | 📊 Estatísticas no GitHub
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarossauro&layout=compact) | ![ycarossauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycarossauro&show_icons=true&theme=dracula) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarossauro&layout=compact) ![ycarossauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycarossauro&show_icons=true&theme=dracula) |
 
 ### 📌 Projetos em Destaque
 
