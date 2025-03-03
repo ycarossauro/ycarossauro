@@ -7,7 +7,7 @@ Tenho aproximadamente 2 anos de experiência no desenvolvimento de aplicativos n
 
 ## 🏢 Atuação Profissional
 - 🚀 Desenvolvedor Android na Spread
-- 🎓 Bacharel em Analise de Desenvolvimento de Sistemas no [SENAC-DF](https://www.df.senac.br/)
+- 🎓 Tecnólogo em Analise de Desenvolvimento de Sistemas no [SENAC-DF](https://www.df.senac.br/)
 
 ## 💬 Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ycarus/)
