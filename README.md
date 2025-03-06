@@ -19,5 +19,4 @@ Tenho aproximadamente 2 anos de experiência no desenvolvimento de aplicativos n
 
 ### 📌 Projetos em Destaque
 
-[![CountriesProject](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=CountriesProject)](https://github.com/ycarossauro/CountriesProject)  [![JSP](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=JSP)](https://github.com/ycarossauro/JSP/tree/main)  [![Spring-Boot-Java-Projects](https://github-readme-stats.vercel.app/api/pin/?username=ycarossauro&repo=Spring-Boot-Java-Projects)](https://github.com/ycarossauro/Spring-Boot-Java-Projects/tree/main)
 
