@@ -17,4 +17,4 @@ I have approximately 2 years of experience in developing native Android applicat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarossauro&layout=compact)    
 
 ### 📊 GitHub Stats  
-![ycarossauro's GitHub s
+![ycarossauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycarossauro&show_icons=true&theme=dracula)  
