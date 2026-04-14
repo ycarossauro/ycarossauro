@@ -19,6 +19,3 @@ I have approximately 2 years of experience in developing native Android applicat
 ### 📊 GitHub Stats  
 ![GitHub followers](https://img.shields.io/github/followers/ycarossauro?logo=github&style=flat-square&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/ycarossauro?logo=github&style=flat-square&label=Total%20Stars)
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/ycarossauro?style=flat-square&label=Commits)  
-![GitHub issues](https://img.shields.io/github/issues/ycarossauro?logo=github&style=flat-square&label=Issues)  
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ycarossauro?logo=github&style=flat-square&label=Pull%20Requests)
