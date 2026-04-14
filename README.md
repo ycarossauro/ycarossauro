@@ -14,7 +14,7 @@ I have approximately 2 years of experience in developing native Android applicat
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ycarossauro)  
 
 ### 🚀 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycarossauro&layout=compact)    
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ycarossauro&theme=dracula)
 
 ### 📊 GitHub Stats  
-![ycarossauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycarossauro&show_icons=true&theme=dracula)  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=ycarossauro&theme=dracula)
