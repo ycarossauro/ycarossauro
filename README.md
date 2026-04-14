@@ -3,7 +3,9 @@
 💻 Android Developer | 🎮 Gamer | 🏋️ Gym Rat  
 
 ## 🌟 About Me  
-I have approximately 2 years of experience in developing native Android applications. Passionate about building digital solutions, I am constantly looking to expand my knowledge and propose solutions that contribute to software development.  
+I am a mid-level Android Developer with over 2 years of hands-on experience in native mobile application development and 3 years in the technology field. I currently work remotely, building and maintaining scalable Android applications with a strong focus on performance, clean architecture, and user experience.
+
+My primary stack includes Kotlin and modern Android development tools, with emphasis on Jetpack Compose and architectural patterns such as MVVM and MVI. I also have solid experience working with legacy codebases built with Java and Kotlin, applying incremental modernization strategies such as introducing Compose in new features and improving architecture over time.
 
 ## 🏢 Professional Experience  
 - 🚀 Android Developer at Spread  
