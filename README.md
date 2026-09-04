@@ -31,7 +31,7 @@ Outside of day-to-day engineering, I create developer content, run live streams 
 - 📱 **Android Developer at Spread Tecnologia** — Building, scaling, and modernizing Android features for enterprise housing and financial apps serving 10M+ users.
 - 🎓 **Postgraduate in Software Engineering (In Progress)** — *Descomplica*
 - 🎓 **Associate Degree in Systems Analysis & Development** — *SENAC-DF*
-- 🎥 **Ycarossauro** — Tech content creation, live coding streams, and developer community building.
+- 🎮 **Ycarossauro** — Gaming content creation, live streams, and community building.
 - 📚 **Pedagoginga** — Tech instructor and curriculum lead for software development workshops.
 
 ---
