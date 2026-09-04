@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile! I'm Ycaro Rodrigues  
 
-🚀 **Mid-Level Android Engineer** | 🎓 **Software Engineering Post-Grad Student** | 🎥 **Tech Content Creator** | 🏋️ **Gym Enthusiast**  
+🚀 **Mid-Level Android Engineer** | 🎓 **Software Engineering Post-Grad Student** | 🎥 **Gaming Content Creator** | 🏋️ **Gym Enthusiast**  
 
 ---
 
